@@ -1,0 +1,218 @@
+Description: BaseSetup
+Maintainer: xcentaurix
+Package: enigma2-plugin-extensions-basesetup
+Architecture: all
+Depends: samba
+Version: 0.3.1
+Filename: enigma2-plugin-extensions-basesetup_0.3.1_all.ipk
+Size: 203612
+MD5Sum: 6dc208c41c3d2594315a9f9183e70975
+
+Description: MediaCockpit
+Maintainer: xcentaurix
+Package: enigma2-plugin-extensions-mediacockpit
+Architecture: all
+Depends: python3-pillow, python3-twisted, python3-mutagen, ffmpeg, enigma2-plugin-systemplugins-mountcockpit, enigma2-plugin-skincomponents-componentscockpit, enigma2-plugin-systemplugins-cachecockpit
+Version: 0.16.1
+Filename: enigma2-plugin-extensions-mediacockpit_0.16.1_all.ipk
+Size: 106092
+MD5Sum: 4f2e4078c6273d4e6f7c620ad35a4dc0
+
+Description: MediathekCockpit
+Maintainer: xcentaurix
+Package: enigma2-plugin-extensions-mediathekcockpit
+Architecture: all
+Depends: enigma2-plugin-systemplugins-cachecockpit, enigma2-plugin-systemplugins-jobcockpit, enigma2-plugin-skincomponents-componentscockpit
+Version: 0.18.1
+Filename: enigma2-plugin-extensions-mediathekcockpit_0.18.1_all.ipk
+Size: 248090
+MD5Sum: 9e207f273c6a6f660424bdbee97c1fb4
+
+Description: MovieCockpit
+Maintainer: xcentaurix
+Package: enigma2-plugin-extensions-moviecockpit
+Architecture: all
+Depends: python3-requests, enigma2-plugin-skincomponents-componentscockpit, enigma2-plugin-systemplugins-mountcockpit, enigma2-plugin-systemplugins-cachecockpit, enigma2-plugin-systemplugins-jobcockpit, enigma2-plugin-systemplugins-covercockpit
+Version: 0.22.1
+Filename: enigma2-plugin-extensions-moviecockpit_0.22.1_all.ipk
+Size: 275866
+MD5Sum: a7a071537033c9e356403d577276ad56
+
+Description: PiconCockpit
+Maintainer: xcentaurix
+Package: enigma2-plugin-extensions-piconcockpit
+Architecture: all
+Version: 0.16.1
+Filename: enigma2-plugin-extensions-piconcockpit_0.16.1_all.ipk
+Size: 52434
+MD5Sum: 45fd2aca199fd2e052314046c24088c8
+
+Package: enigma2-plugin-extensions-plutotvcockpit
+Plugin: PlutoTVCockpit
+Description: PlutoTVCockpit plugin for enigma2
+Maintainer: xcentaurix
+Architecture: all
+Depends: enigma2-plugin-systemplugins-streamproxycockpit, enigma2-plugin-extensions-epgimport, enigma2-plugin-skincomponents-componentscockpit, enigma2-plugin-systemplugins-jobcockpit
+Version: 0.34.1
+Filename: enigma2-plugin-extensions-plutotvcockpit_0.34.1_all.ipk
+Size: 371646
+MD5Sum: f74ab2d990a36d5cc0b5e170b6c3fe4e
+
+Description: RakutenTVCockpit
+Maintainer: xcentaurix
+Package: enigma2-plugin-extensions-rakutentvcockpit
+Architecture: all
+Depends: enigma2-plugin-systemplugins-streamproxycockpit, enigma2-plugin-extensions-epgimport, enigma2-plugin-skincomponents-componentscockpit, enigma2-plugin-systemplugins-jobcockpit
+Version: 0.26.1
+Filename: enigma2-plugin-extensions-rakutentvcockpit_0.26.1_all.ipk
+Size: 256900
+MD5Sum: bbe2f42da38000b81b4abd2efe7a2bac
+
+Description: SamsungTVCockpit
+Package: enigma2-plugin-extensions-samsungtvcockpit
+Maintainer: xcentaurix
+Architecture: all
+Depends: enigma2-plugin-systemplugins-streamproxycockpit, enigma2-plugin-extensions-epgimport, enigma2-plugin-skincomponents-componentscockpit, enigma2-plugin-systemplugins-jobcockpit
+Version: 1.25.1
+Filename: enigma2-plugin-extensions-samsungtvcockpit_1.25.1_all.ipk
+Size: 358246
+MD5Sum: 5f53781293f74a4e168af0dc86b41130
+
+Description: TimeshiftCockpit
+Maintainer: xcentaurix
+Package: enigma2-plugin-extensions-timeshiftcockpit
+Architecture: all
+Conflicts: enigma2-plugin-extensions-permanenttimeshift
+Depends: enigma2-plugin-systemplugins-powercockpit, enigma2-plugin-skincomponents-componentscockpit, enigma2-plugin-systemplugins-covercockpit, enigma2-plugin-systemplugins-jobcockpit
+Version: 0.14.1
+Filename: enigma2-plugin-extensions-timeshiftcockpit_0.14.1_all.ipk
+Size: 79190
+MD5Sum: ebe493585084aa5cbdd07c89f26efc06
+
+Description: TMDBCockpit
+Maintainer: xcentaurix
+Package: enigma2-plugin-extensions-tmdbcockpit
+Architecture: all
+Depends: python3-requests, python3-yt-dlp
+Version: 1.13.1
+Filename: enigma2-plugin-extensions-tmdbcockpit_1.13.1_all.ipk
+Size: 146580
+MD5Sum: 2cfed828aa95535ec8a35e073844e853
+
+Description: TVMagazineCockpit
+Maintainer: xcentaurix
+Package: enigma2-plugin-extensions-tvmagazinecockpit
+Architecture: all
+Depends: enigma2-plugin-skincomponents-componentscockpit, enigma2-plugin-systemplugins-covercockpit
+Version: 0.17.1
+Filename: enigma2-plugin-extensions-tvmagazinecockpit_0.17.1_all.ipk
+Size: 82382
+MD5Sum: a251f3bd444020ea9ef758f9618d34dd
+
+Description: ComponentsCockpit
+Maintainer: xcentaurix
+Package: enigma2-plugin-skincomponents-componentscockpit
+Architecture: all
+Version: 0.9.0
+Filename: enigma2-plugin-skincomponents-componentscockpit_0.9.0_all.ipk
+Size: 310764
+MD5Sum: 9ec3ea0a12946bce94c4aa097178db8d
+
+Description: DisplaySkinCockpit
+Maintainer: xcentaurix
+Package: enigma2-plugin-skins-displayskincockpit
+Architecture: all
+Depends: enigma2-plugin-skincomponents-componentscockpit
+Version: 0.13.0
+Filename: enigma2-plugin-skins-displayskincockpit_0.13.0_all.ipk
+Size: 19928
+MD5Sum: b20c9c9f114f96487b0107435eb493e3
+
+Description: MaterialSkinCockpit
+Maintainer: xcentaurix
+Package: enigma2-plugin-skins-materialskincockpit
+Architecture: all
+Depends: enigma2-plugin-skincomponents-componentscockpit
+Version: 0.6.2
+Filename: enigma2-plugin-skins-materialskincockpit_0.6.2_all.ipk
+Size: 3576634
+MD5Sum: 5b52514960937ed786bafdee3e2a14ec
+
+Description: CacheCockpit
+Maintainer: xcentaurix
+Package: enigma2-plugin-systemplugins-cachecockpit
+Architecture: all
+Depends: python3-sqlite3, python3-requests, enigma2-plugin-systemplugins-mountcockpit, enigma2-plugin-systemplugins-jobcockpit
+Version: 0.5.10
+Filename: enigma2-plugin-systemplugins-cachecockpit_0.5.10_all.ipk
+Size: 73962
+MD5Sum: 49364bc46f993c2cfa536c0836450ae6
+
+Description: CoverCockpit
+Maintainer: xcentaurix
+Package: enigma2-plugin-systemplugins-covercockpit
+Architecture: all
+Version: 0.6.0
+Filename: enigma2-plugin-systemplugins-covercockpit_0.6.0_all.ipk
+Size: 30924
+MD5Sum: dc6e95e82ce86a04caa70e2ea2cb1f9b
+
+Description: FontsCockpit
+Maintainer: xcentaurix
+Package: enigma2-plugin-systemplugins-fontscockpit
+Architecture: all
+Version: 0.0.1
+Filename: enigma2-plugin-systemplugins-fontscockpit_0.0.1_all.ipk
+Size: 205204
+MD5Sum: 48a17478708e0264a32605be9b668670
+
+Description: JobCockpit
+Maintainer: xcentaurix
+Package: enigma2-plugin-systemplugins-jobcockpit
+Architecture: all
+Depends: enigma2-plugin-systemplugins-fontscockpit
+Version: 0.17.0
+Filename: enigma2-plugin-systemplugins-jobcockpit_0.17.0_all.ipk
+Size: 46326
+MD5Sum: 0c22e0ae5169c0523dc6cc3eb639fb9d
+
+Description: MountCockpit
+Maintainer: xcentaurix
+Package: enigma2-plugin-systemplugins-mountcockpit
+Architecture: all
+Version: 0.8.5
+Filename: enigma2-plugin-systemplugins-mountcockpit_0.8.5_all.ipk
+Size: 23416
+MD5Sum: 4d4d6ac80fc01090f01caf08fc4d05b2
+
+Description: PowerCockpit
+Maintainer: xcentaurix
+Package: enigma2-plugin-systemplugins-powercockpit
+Architecture: all
+Depends: enigma2-plugin-systemplugins-jobcockpit
+Conflicts: enigma2-plugin-systemplugins-safepoweroff
+Replaces: enigma2-plugin-systemplugins-safepoweroff
+Version: 0.7.5
+Filename: enigma2-plugin-systemplugins-powercockpit_0.7.5_all.ipk
+Size: 23674
+MD5Sum: 28892ab3d972f9d12890c7dd2b95aa07
+
+Description: StreamProxyCockpit
+Maintainer: xcentaurix
+Package: enigma2-plugin-systemplugins-streamproxycockpit
+Architecture: all
+Depends: python3-pycryptodome
+Version: 0.2.3
+Filename: enigma2-plugin-systemplugins-streamproxycockpit_0.2.3_all.ipk
+Size: 124980
+MD5Sum: 3c0d4307d60fbb9fc550f0acc91b3394
+
+Description: UbuntuCockpit
+Maintainer: xcentaurix
+Package: enigma2-plugin-systemplugins-ubuntucockpit
+Architecture: all
+Version: 25.12.0
+Filename: enigma2-plugin-systemplugins-ubuntucockpit_25.12.0_all.ipk
+Size: 8068
+MD5Sum: 70a07ffc523fb39eda08a322320d38a3
+
