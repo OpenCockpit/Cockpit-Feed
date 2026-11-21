@@ -1,0 +1,9 @@
+Package: enigma2-plugin-systemplugins-picanicockpit
+Architecture: armv7ahf-neon
+Maintainer: xcentaurix
+Description: Slideshow transitions for enigma2 (Dreambox DM900, OpenViX). Pictures are pre-baked in C++ during the hold time and played back by moving widgets on the GPU. Used by MediaCockpit when installed.
+Version: 0.0.8
+Filename: enigma2-plugin-systemplugins-picanicockpit_0.0.8_armv7ahf-neon.ipk
+Size: 35216
+MD5Sum: 72e6eeb10c4788310f60cda578ee906f
+
